@@ -1,1 +1,2 @@
 # Finance-Database
+I, along with my team, have developed a finance database for our databases class using MySQL. This comprehensive database enables users to create accounts for their savings, checking, and investment requirements. Furthermore, users can conveniently retrieve a comprehensive list of all transactions that took place during the month of May by simply executing a straightforward procedure call. 
